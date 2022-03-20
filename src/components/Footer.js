@@ -6,7 +6,11 @@ function Footer() {
             <div className='footer-copyright'>
                 <div className='container'>
                     © {new Date().getFullYear()} Copyright Text
-                    <a className='grey-text text-lighten-4 right' href='#!'>
+                    <a
+                        className='grey-text text-lighten-4 right'
+                        href='https://github.com/wrongsky1/shop-project'
+                        target='_blank'
+                        rel='noreferrer'>
                         Repo
                     </a>
                 </div>

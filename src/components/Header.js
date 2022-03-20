@@ -9,14 +9,9 @@ function Header() {
                 </a>
                 <ul id='nav-mobile' className='right hide-on-med-and-down'>
                     <li>
-                        <a href='!#'>repo</a>
+                        <a href='https://github.com/wrongsky1/shop-project' target='_blank' rel='noreferrer'>repo</a>
                     </li>
-                    <li>
-                        <a href='!#'>repo</a>
-                    </li>
-                    <li>
-                        <a href='!#'>repo</a>
-                    </li>
+                 
                 </ul>
             </div>
         </nav>
